@@ -1,5 +1,5 @@
 # math 
-###### a simple tool to evaluate python3 math expressions from the command line
+###### a simple tool to evaluate python3-like math expressions from the command line
 
 ```
 $ math 3x5+5
