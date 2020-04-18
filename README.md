@@ -12,5 +12,7 @@ $ math 5/2
 Unfortunately, `'*'` is a special character. To make math work, you have to replace any appearance of `'*'` with `'x'`.
 
 ## Installation
-To make math available all over your system, you can create a symbolic link to `math.py` in your `/bin` directory. This can be done with the following command.
-`$ sudo ln -s $PWD/math.py /bin/math`
+To make math available all over your system, you can create a symbolic link to `math.py` in your `/bin` directory. This can be done, for example, by
+```
+$ sudo ln -s $PWD/math.py /bin/math
+```
